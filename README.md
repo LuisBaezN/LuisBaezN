@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuisBaezN
 - 👀 I’m interested in Science and Philosophy 
 - 🌱 I’m currently learning Web Devolopment and Machine Learning
-- 💞️ I’m looking to collaborate on projects focused on solve health problems and projects that help to reduce climate change
+- 💞️ I’m looking to collaborate on projects focused on solve health problems and projects that help reduce climate change
 - 📫 How to reach me: baez.201041081@gmail.com
 
 <!---
