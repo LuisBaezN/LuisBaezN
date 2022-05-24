@@ -1,6 +1,6 @@
-<h1 align='center'> Welcome! <h1\>
+<h1> Welcome! <h1\>
   
-  <hr>
+<hr>
 
 - 👋 Hi, I’m Luis Angel Baez
 - 👀 I’m interested in Science and Philosophy 
@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on projects focused on solve health problems and projects that help reduce climate change
 - 📫 How to reach me: baez.201041081@gmail.com
   
-  <hr />
+<hr />
 
 <h4>📈&nbsp;&nbsp;&nbsp;Github Stats </h4>
 
