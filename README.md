@@ -1,5 +1,9 @@
-<h1> Welcome! </h1>
-  
+<h1 style="text-align:center"> 🌏🌲 Welcome! 💻📱 </h1>
+
+<hr>
+
+![cover image](https://random.imagecdn.app/900/300)
+
 <hr>
 
 <ul>
