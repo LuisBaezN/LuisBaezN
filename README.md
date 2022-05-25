@@ -15,7 +15,7 @@
   
 <hr>
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&35)](https://github.com/LuisBaezN)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/LuisBaezN)
 
 <hr>
 
