@@ -2,7 +2,7 @@
 
 <hr>
 
-![cover image](https://random.imagecdn.app/900/300)
+![cover image](https://random.imagecdn.app/900/250)
 
 <hr>
 
