@@ -2,7 +2,7 @@
 
 <hr>
 
-![cover image](https://random.imagecdn.app/900/250)
+![cover image](https://random.imagecdn.app/900/215)
 
 <hr>
 
@@ -13,6 +13,10 @@
   <li> 💞️ I’m looking to collaborate on projects focused on solve <strong>health problems</strong> and projects that help reduce <strong>climate change</strong>. </li>
 </ul>
   
+<hr>
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&35)](https://github.com/LuisBaezN)
+
 <hr>
 
 <h4>📈&nbsp;&nbsp;&nbsp;Github Stats </h4>
