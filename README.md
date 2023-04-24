@@ -1,11 +1,5 @@
 <h1 style="text-align:center"> 🌏🌲 Welcome! 💻📱 </h1>
 
-<hr>
-
-![cover image](https://random.imagecdn.app/900/215)
-
-<hr>
-
 <ul>
   <li>👋 Hi, my name is <em>Luis Ángel Baez</em> and I'm <strong>Mechatronic Engineer</strong> with a background in <strong>Computer Science</strong>.</li>
   <li> 👀 I’m interested in <strong>science</strong> and <strong>philosophy</strong>. </li>
