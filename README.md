@@ -6,10 +6,6 @@
   <li> 🌱 I’m currently learning <strong>Full stack</strong> technologies and <strong>Machine learning</strong> algorithms. </li>
   <li> 💞️ I’m looking to collaborate on projects focused on solve <strong>health problems</strong> and projects that help reduce <strong>climate change</strong>. </li>
 </ul>
-  
-<hr>
-
-https://api.themotivate365.com/stoic-quote
 
 <hr>
 
