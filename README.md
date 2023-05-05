@@ -9,7 +9,7 @@
   
 <hr>
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/LuisBaezN)
+https://api.themotivate365.com/stoic-quote
 
 <hr>
 
